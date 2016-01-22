@@ -1,3 +1,3 @@
 # ucd-csci2312-pa0
 
-My number is **100494907**
+My student ID number is **100494907**

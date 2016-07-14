@@ -7,7 +7,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, world! My student ID number is " <<100494907<< '!' << std::endl;
+    std::cout << "Hello, world! My student ID number is " <<1000000<< '!' << std::endl;
 
     return 0;
 }
